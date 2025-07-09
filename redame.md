@@ -1,1 +1,1 @@
-3-Tier Java + MySQL Application
+3-Tier Java + MySQL Applications
